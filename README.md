@@ -17,7 +17,7 @@ ALGORITHM :
 
 PROGRAM :
 
-CLIENT
+CLIENT:
 
     import socket
     s=socket.socket()
@@ -38,7 +38,7 @@ CLIENT
                 print(ack)
                 i+=s
 
-SERVER
+SERVER:
 
     import socket
     s=socket.socket()
