@@ -51,9 +51,11 @@ SERVER
 OUTPUT :
 
 CLIENT:
+
 ![image](https://github.com/Sindhuja9585/EX-3/assets/122860624/9883f30e-f736-4f40-88c2-96622746b7f5)
 
 SERVER:
+
 ![image](https://github.com/Sindhuja9585/EX-3/assets/122860624/9f36672c-5f97-4af1-b5d1-7ec7652fc5a2)
 
 
