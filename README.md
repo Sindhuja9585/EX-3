@@ -61,5 +61,5 @@ SERVER:
 
 RESULT:
 
-Thus, python program to perform stop and wait protocol was successfully executed.
+Thus, python program to perform stop and wait protocol And Sliding Window Protocol was successfully executed.
 
